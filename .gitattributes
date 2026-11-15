@@ -1,0 +1,4 @@
+* text=auto eol=lf
+/model/** binary
+/model/vocabulary.json text eol=lf diff merge
+/benchmarks/prompts/** binary
